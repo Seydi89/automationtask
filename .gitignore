@@ -1,0 +1,19 @@
+# IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+out
+dep*.txt
+test*.txt
+
+application-local*.yml
+
+# Gradle
+.gradle
+#gradle
+build
+reports
+screenshot
+
+webdriver
