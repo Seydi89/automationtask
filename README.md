@@ -2,7 +2,7 @@
 This project has consists of parts:
 
 * Ui Test Automation: e-commerce website
-* Rest Test Api: 
+* Rest Test Api: location service website
 * Load Test: bbc.com
 
 ## Getting Started
@@ -13,7 +13,7 @@ Readme contains limited information to protect the task details
 
 * Download and activate Lombok plugin (for IntelliJ)
 * Download chromedriver compatible with project Selenium version
-* Update from properties files
+* Update properties files for user credentials and related paths
 
 ## Running the Tests
 
